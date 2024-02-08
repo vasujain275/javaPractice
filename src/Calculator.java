@@ -30,7 +30,7 @@ public class Calculator {
             case 4:
                 System.out.println("Division of two numbers is "+(a/b));
             default:
-                System.out.println("Invaild Option");
+                System.out.println("Invalid Option");
         }
     }
 }
